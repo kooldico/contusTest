@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="550" viewBox="0 0 550 550">
+  <g id="radio" transform="translate(-19320 -15617)">
+    <g id="Group_658" data-name="Group 658">
+      <g id="Group_653" data-name="Group 653" transform="translate(18975 15463)">
+        <rect id="Rectangle_281" data-name="Rectangle 281" width="550" height="550" rx="8" transform="translate(345 154)" fill="#ebfcff"/>
+      </g>
+    </g>
+    <g id="Group_661" data-name="Group 661" transform="translate(21 20)">
+      <g id="Group_662" data-name="Group 662" transform="translate(-8 8.604)">
+        <g id="radio_2_" data-name="radio (2)" transform="translate(19454 15735.396)">
+          <g id="Group_629" data-name="Group 629" transform="translate(0 0)">
+            <path id="Path_3016" data-name="Path 3016" d="M256.572,237.774V92.5a18.593,18.593,0,0,0-15.913-18.532L62.58,14.92a18.755,18.755,0,0,0-37.113,3.822A18.614,18.614,0,0,0,53.943,34.656L171.982,73.813H18.819A18.59,18.59,0,0,0,.079,92.555V237.878a18.59,18.59,0,0,0,18.74,18.741H238.356C248.25,256.515,257.1,247.72,256.572,237.774Zm-20.991-2.722H21.593V95.225H235.582Z" transform="translate(-0.079 0)" fill="#526b70" stroke="#ebfcff" stroke-width="6"/>
+            <path id="Path_3017" data-name="Path 3017" d="M300.73,323.506c24.289,0,44.128-19.841,43.552-43.5a43.552,43.552,0,1,0-43.552,43.5Zm0-66.066A22.563,22.563,0,1,1,278.117,280,22.743,22.743,0,0,1,300.73,257.44Z" transform="translate(-122.598 -112.692)" fill="#526b70" stroke="#ebfcff" stroke-width="8"/>
+            <path id="Path_3018" data-name="Path 3018" d="M76.948,254.34h61.768c6.072,0,11.045-4.973,11.045-10.47a10.464,10.464,0,0,0-10.469-10.47H76.948a10.47,10.47,0,0,0,0,20.94Z" transform="translate(-31.722 -111.215)" fill="#526b70" stroke="#ebfcff" stroke-width="8"/>
+            <path id="Path_3019" data-name="Path 3019" d="M76.948,378.44h61.768c6.072,0,11.045-4.4,11.045-10.47a10.464,10.464,0,0,0-10.469-10.47H76.948a10.47,10.47,0,0,0,0,20.94Z" transform="translate(-31.722 -170.349)" fill="#526b70" stroke="#ebfcff" stroke-width="8"/>
+          </g>
+        </g>
+        <ellipse id="Ellipse_147" data-name="Ellipse 147" cx="29.109" cy="29.112" rx="29.109" ry="29.112" transform="translate(19603.184 15874.585)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
